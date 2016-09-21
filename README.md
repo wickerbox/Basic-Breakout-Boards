@@ -10,10 +10,10 @@ All the work here is released under the CERN Open Hardware License v1.2.
 
 These have been designed, assembled, and proven.
 
-- [Teensy LC footprint KiCad template](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/teensy-lc-test)
 - [Atmega328](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/atmega328)
 - [MMA7660 Accelerometer](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/mma7660-sensor-breakout)
 - [RGB LED Neopixel breakout](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/neopixel-ws2812b-breakout)
+- [Teensy LC footprint KiCad template](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/teensy-lc-test)
 
 ### Unverified Circuit Schematics
 
