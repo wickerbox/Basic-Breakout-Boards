@@ -8,6 +8,7 @@
 *~
 _autosave-*
 *.tmp
+*.rpt
 
 # Netlist files (exported from Eeschema)
 *.net
