@@ -6,13 +6,13 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "MMA7660 Sensor Breakout"
+Date "2016-09-21"
+Rev "v1.0"
 Comp "Released under the CERN Open Hardware License v1.2"
-Comment1 "Contact: jeh.wicker@gmail.com"
-Comment2 "Author: Jenner Hanni"
-Comment3 "Company: Wickerbox Electronics"
+Comment1 "Designed by Jenner Hanni for Wickerbox Electronics"
+Comment2 "jenner@wickerbox.net"
+Comment3 "http://wickerbox.net "
 Comment4 ""
 $EndDescr
 Wire Wire Line

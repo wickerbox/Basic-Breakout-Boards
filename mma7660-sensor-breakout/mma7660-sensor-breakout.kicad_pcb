@@ -14,10 +14,13 @@
 
   (page A4)
   (title_block
+    (title "MMA7660 Sensor Breakout")
+    (date 2016-09-21)
+    (rev v1.0)
     (company "Released under the CERN Open Hardware License v1.2")
-    (comment 1 jeh.wicker@gmail.com)
-    (comment 2 "Jenner Hanni")
-    (comment 3 "Wickerbox Electronics")
+    (comment 1 "Designed by Jenner Hanni for Wickerbox Electronics")
+    (comment 2 "jeh.wicker@gmail.com    ")
+    (comment 3 http://wickerbox.net)
   )
 
   (layers
