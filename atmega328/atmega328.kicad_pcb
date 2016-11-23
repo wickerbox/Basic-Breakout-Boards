@@ -1,7 +1,7 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.3+e1-6302~38~ubuntu14.04.1-stable)
+(kicad_pcb (version 4) (host pcbnew 4.0.4+e1-6308~48~ubuntu14.04.1-stable)
 
   (general
-    (links 77)
+    (links 0)
     (no_connects 0)
     (area 104.572999 74.854999 178.510001 147.803733)
     (thickness 1.6)
@@ -39,7 +39,7 @@
   )
 
   (setup
-    (last_trace_width 0.254)
+    (last_trace_width 0.1524)
     (user_trace_width 0.1524)
     (user_trace_width 0.254)
     (user_trace_width 0.3302)
@@ -72,6 +72,7 @@
     (pad_size 3.048 3.048)
     (pad_drill 3.048)
     (pad_to_mask_clearance 0.0762)
+    (pad_to_paste_clearance -0.0762)
     (aux_axis_origin 154.432 181.102)
     (grid_origin 153.797 183.642)
     (visible_elements FFFEDF7D)
