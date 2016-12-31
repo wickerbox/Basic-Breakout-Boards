@@ -5,10 +5,10 @@ This is a breakout board for the Atmega328. It supports input voltage up to 16V,
 
 Updated: 31 Dec 2016
 
-Author: Jenner Hanni
-Website: http://wickerbox.net
-Company: Wickerbox Electronics
-License: CERN Open Hardware License v1.2
+- Author: Jenner Hanni
+- Website: http://wickerbox.net
+- Company: Wickerbox Electronics
+- License: CERN Open Hardware License v1.2
 <!--- end title --->
 
 The project is released as open hardware under the CERN v1.2 Open Hardware license.
