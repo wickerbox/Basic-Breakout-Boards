@@ -1,5 +1,5 @@
 <!--- start title --->
-# Basic Atmega328 Breakout Board v1.1
+# Basic Atmega328 Breakout Board v1.2
 
 This is a breakout board for the Atmega328. It supports input voltage up to 16V, regulating down to 5V for the microcontroller. A bootloader can be loaded over ICSP and then the board can be powered and communicated with over an FTDI cable. All the input/output pins are broken out for prototyping.
 
