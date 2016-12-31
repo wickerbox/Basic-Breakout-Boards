@@ -1,25 +1,3 @@
-<!--- start title --->
-# Basic Atmega328 Breakout Board v1.2
-
-This is a breakout board for the Atmega328. It supports input voltage up to 16V, regulating down to 5V for the microcontroller. A bootloader can be loaded over ICSP and then the board can be powered and communicated with over an FTDI cable. All the input/output pins are broken out for prototyping.
-
-Updated: 31 Dec 2016
-
-Author: Jenner Hanni
-Website: http://wickerbox.net
-Company: Wickerbox Electronics
-License: CERN Open Hardware License v1.2
-<!--- end title --->
-
-The project is released as open hardware under the CERN v1.2 Open Hardware license.
-
-The project uses the Atmega328 template from [wickerlib](http://wickerbox.net/wickerlib).
-
-You can order a set of three bare boards for $13.35 from OSH Park [here](https://oshpark.com/shared_projects/Bx0lZ6cN).
-
-### Bill of Materials
-
-<!--- bom start --->
 |Ref|Qty|Description|Digikey PN|
 |---|---|-----------|------|
 |C2 C6|2|CAP CER 10UF 25V X7R 1210|587-2599-1-ND|
@@ -41,12 +19,4 @@ You can order a set of three bare boards for $13.35 from OSH Park [here](https:/
 |U2|1|IC MCU 8BIT 32KB FLASH 32TQFP|ATMEGA328P-AU-ND|
 |X1|1|16MHz 30ppm Crystal 18pF 40 Ohm 4SMD NOLEAD|CTX1206CT-ND|
 
-
-<!--- bom end --->
-
-![Schematic](schematic.png)
-
-![Assembly Diagram](assembly.png)
-
-![Gerber Preview](preview.png)
 
