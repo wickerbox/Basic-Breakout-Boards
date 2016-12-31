@@ -1,5 +1,6 @@
 EESchema Schematic File Version 2
 LIBS:wickerlib
+LIBS:atmega328-cache
 EELAYER 25 0
 EELAYER END
 $Descr USLetter 11000 8500
@@ -60,7 +61,7 @@ F 5 "CTS" H 4025 3525 50  0001 C CIN "MF_Name"
 F 6 "406I35D16M00000" H 4025 3525 50  0001 C CIN "MF_PN"
 F 7 "Digikey" H 4025 3525 50  0001 C CIN "S1_Name"
 F 8 "CTX1206CT-ND" H 4025 3525 50  0001 C CIN "S1_PN"
-F 9 "16MHz 30ppm Crystal 18pF 40 Ohm 4SMD NOLEAD" H 4025 3525 50  0001 C CIN "Description"
+F 9 "CRYSTAL 16MHz 18pF 40 OHM 4SMD" H 4025 3525 50  0001 C CIN "Description"
 F 10 "Not Verified" H 4025 3525 50  0001 C CIN "Verified"
 	1    4025 3875
 	1    0    0    -1  

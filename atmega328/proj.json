@@ -12,8 +12,8 @@
     "projname":"atmega328",
     "template_dir":"/home/wicker/wickerlib/templates",
     "template_kicad":"wickerbox-2layer",
-    "template_latex":"wickerbox.tex",
+    "template_latex":"breakout.tex",
     "title":"Basic Atmega328 Breakout Board",
-    "version":"1.2",
+    "version":"v1.2",
     "website":"http://wickerbox.net"
 }

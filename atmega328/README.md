@@ -13,9 +13,15 @@ License: CERN Open Hardware License v1.2
 
 The project is released as open hardware under the CERN v1.2 Open Hardware license.
 
+<!--- start title --->
 The project uses the Atmega328 template from [wickerlib](http://wickerbox.net/wickerlib).
 
 You can order a set of three bare boards for $13.35 from OSH Park [here](https://oshpark.com/shared_projects/Bx0lZ6cN).
+<!--- end title --->
+
+![Schematic](schematic.png)
+
+![Gerber Preview](preview.png)
 
 ### Bill of Materials
 
@@ -39,14 +45,10 @@ You can order a set of three bare boards for $13.35 from OSH Park [here](https:/
 |S1|1|SWITCH TACTILE SPST-NO 0.05A 12V|SW1020CT-ND|
 |U1|1|IC REG LDO 5V 1.1A NCP1117 DPAK| NCP1117DT50GOS-ND|
 |U2|1|IC MCU 8BIT 32KB FLASH 32TQFP|ATMEGA328P-AU-ND|
-|X1|1|16MHz 30ppm Crystal 18pF 40 Ohm 4SMD NOLEAD|CTX1206CT-ND|
+|X1|1|CRYSTAL 16MHz 18pF 40 OHM 4SMD|CTX1206CT-ND|
 
 
 <!--- bom end --->
-
-![Schematic](schematic.png)
-
 ![Assembly Diagram](assembly.png)
 
-![Gerber Preview](preview.png)
 
