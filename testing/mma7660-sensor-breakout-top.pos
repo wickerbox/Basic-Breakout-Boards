@@ -1,9 +1,0 @@
-### Module positions - created on Thu Oct 13 19:37:08 2016 ###
-### Printed by Pcbnew version kicad 4.0.4+e1-6308~48~ubuntu14.04.1-stable
-## Unit = mm, Angle = deg.
-## Side : top
-# Ref     Val            Package                       PosX       PosY       Rot  Side
-C1        100nF          RLC-0805-SMD              152.9080  -105.8010   90.0000  top
-C2        100nF          RLC-0805-SMD              142.5100  -105.9180   90.0000  top
-U1        MMA7660-DFN10  DFN-10-1EP-3x3MM-P0.5MM   148.1080  -107.2040    0.0000  top
-## End
