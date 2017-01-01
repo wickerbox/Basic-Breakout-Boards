@@ -1,0 +1,5 @@
+Ref,Qty,Value,Footprint,Footprint Library,Symbol,Symbol Library,Datasheet,Package,MF_Name,MF_PN,S1_Name,S1_PN,Description,Verified
+C2 C1,2,100nF,RLC-0805,Wickerlib,CAP-CER-0.1UF-25V-X7R-0805,wickerlib,http://www.samsungsem.com/kr/front/downloadcms.do?path=/kr/support/product-search/mlcc/__icsFiles/afieldfile/2014/11/05&fileName=C_CL21B104KACNNNC.pdf,Samsung,CL21B104KACNNNC,Digikey,1276-1099-1-ND,CAP CER 0.1UF 25V X7R 0805
+J1,1,HEADER,CONN-HEADER-STRAIGHT-P2.54MM-1x05,Wickerlib,HEADER-MALE-5POS-TH-1x05-P0.1IN,wickerlib,https://cdn.harwin.com/pdfs/60page140.pdf,Pin_Header_Straight_1x05,Harwin,M20-9992046,Digikey,952-1902-ND,HEADER MALE 5POS TH 1x05 0.1”,Not Verified
+R1 R2,2,1K,RLC-0603-SMD,Wickerlib,RES-1K-1%-1/10W-0603,wickerlib,http://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf,Samsung,RC1608F102CS,Digikey,1276-3484-1-ND,RES SMD 1K OHM 1% 1/10W 0603
+U1,1,IC-MMA7660-DFN10,DFN-10-1EP-3x3MM-P0.5MM,Wickerlib,IC-MMA7660-DFN10,wickerlib,http://cache.freescale.com/files/sensors/doc/data_sheet/MMA7660FC.pdf,Freescale NXP,MMA7660FCT,Digikey,MMA7660FCT-ND,IC ACCELEROMETER 3X3 DGTL 10-DFN
