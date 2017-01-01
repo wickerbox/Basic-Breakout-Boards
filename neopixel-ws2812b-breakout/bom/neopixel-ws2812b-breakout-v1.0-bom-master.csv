@@ -1,0 +1,4 @@
+Ref,Qty,Value,Footprint,Footprint Library,Symbol,Symbol Library,Datasheet,Package,MF_Name,MF_PN,S1_Name,S1_PN,Description,Verified
+J2 J1,2,OUTPUT,CONN-HEADER-STRAIGHT-P2.54MM-1x02,Wickerlib,HEADER-MALE-2POS-TH-1x02-P0.1IN,wickerlib,https://cdn.harwin.com/pdfs/60page140.pdf,Pin_Header_Straight_1x02,Harwin,M20-9990246,Digikey,952-2262-ND,HEADER MALE 2POS TH 1x02 0.1”,Not Verified
+LED1,1,WS2812B,LED-RGB-5050-SMD,Wickerlib,LED-RGB-WS2812B-4SMD,wickerlib,http://www.adafruit.com/datasheets/WS2812B.pdf,RGBLED5050,Adafruit,1655,Digikey,1528-1104-ND,LED RGB WS2812B W/DVR 4SMD,Not Verified
+R1,1,470,RLC-0603-SMD,Wickerlib,RES-470-5%-1/4W-0603,wickerlib,http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf,0603,Rohm Semi,ESR03EZPJ471,Digikey,RHM470DCT-ND,RES SMD 470 OHM 5% 1/4W 0603,Not Verified

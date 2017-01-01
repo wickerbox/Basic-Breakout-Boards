@@ -1,0 +1,19 @@
+{
+    "author":"Jenner Hanni",
+    "bom_dir":"bom",
+    "company":"Wickerbox Electronics",
+    "date_create":"1 Sep 2016",
+    "date_update":"1 Sep 2016",
+    "description":"Breadboard-compatible breakout board for a WS2812B or 5050-compatible RGB 'Neopixel' LED.",
+    "email":"jenner@wickerbox.net",
+    "gerbers_dir":"gerbers",
+    "lib_dir":"/home/wicker/wickerlib/libraries",
+    "license":"CERN Open Hardware License v1.2",
+    "projname":"neopixel-ws2812b-breakout",
+    "template_dir":"/home/wicker/wickerlib/templates",
+    "template_kicad":"wickerbox-2layer",
+    "template_latex":"breakout.tex",
+    "title":"Neopixel WS2812B Breakout Board",
+    "version":"v1.0",
+    "website":"http://wickerbox.net"
+}
