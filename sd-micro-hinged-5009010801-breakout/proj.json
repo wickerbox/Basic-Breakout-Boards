@@ -1,0 +1,19 @@
+{
+    "author":"Jenner Hanni",
+    "bom_dir":"bom",
+    "company":"Wickerbox Electronics",
+    "date_create":"01 Jan 2017",
+    "date_update":"01 Jan 2017",
+    "description":"Breadboard- and 3V/5V-compatible micro SD breakout board.",
+    "email":"jenner@wickerbox.net",
+    "gerbers_dir":"gerbers",
+    "lib_dir":"/home/wicker/wickerlib/libraries",
+    "license":"CERN Open Hardware License v1.2",
+    "projname":"sd-micro-hinged-5009010801-breakout",
+    "template_dir":"/home/wicker/wickerlib/templates",
+    "template_kicad":"wickerbox-2layer",
+    "template_latex":"breakout.tex",
+    "title":"Micro SD Connector (5009010801) Breakout Board",
+    "version":"v1.0",
+    "website":"http://wickerbox.net"
+}

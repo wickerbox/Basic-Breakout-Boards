@@ -17,13 +17,16 @@ All the work here is released under the CERN Open Hardware License v1.2.
 
 |Breakout Board|Version|Documentation|Manufacturing Files|
 |--------------|-------|-------------|-------------------|
+|[SD Card Connector (2041021-4) Breakout](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/sd-full-2041021-4-breakout)|v1.0|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/sd-full-2041021-4-breakout/sd-full-2041021-4-breakout-v1.0.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/sd-full-2041021-4-breakout/sd-full-2041021-4-breakout-v1.0.zip)|
+|[Micro SD Card Connector (5009010801) Breakout](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/sd-micro-hinged-5009010801-breakout)|v1.0|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/sd-micro-hinged-5009010801-breakout/sd-micro-hinged-5009010801-breakout-v1.0.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/sd-micro-hinged-5009010801-breakout/sd-micro-hinged-5009010801-breakout-v1.0.zip)|
+|[Micro SD Card Connector (0475710001)](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/sd-micro-pushpull-0475710001-breakout)|v1.0|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/sd-micro-pushpull-0475710001-breakout/sd-micro-pushpull-0475710001-breakout-v1.0.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/sd-micro-pushpull-0475710001-breakout/sd-micro-pushpull-0475710001-breakout-v1.0.zip)|
 |Atmega2560||||
 |Attiny85||||
 |Attiny861V||||
 |Atmega32u4||||
 |Atmel programmer||||
 |Battery charging circuit||||
-|EFM8BB1||||
+|[EFM8BB1 Breakout](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/efm8bb1-breakout)|v1.0|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/efm8bb1-breakout/efm8bb1-breakout-v1.0.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/efm8bb1-breakout/efm8bb1-breakout-v1.0.zip)|
 |USB-Serial circuit||||
 |JTAG adapter||||
 |LED Array||||
