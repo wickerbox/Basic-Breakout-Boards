@@ -13,12 +13,14 @@ All the work here is released under the CERN Open Hardware License v1.2.
 |[MMA7660 Accelerometer](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/mma7660-sensor-breakout)|v1.1|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/mma7660-sensor-breakout/mma7660-sensor-breakout-v1.1.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/mma7660-sensor-breakout/mma7660-sensor-breakout-v1.1.zip)|
 |[RGB LED Neopixel](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/neopixel-ws2812b-breakout)|v1.0|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/neopixel-ws2812b-breakout/neopixel-ws2812b-breakout-v1.0.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/neopixel-ws2812b-breakout/neopixel-ws2812b-breakout-v1.0.zip)|
 
-### Unverified
+### Unverified Projects
+
+The links are included to documentation and manufacturing files but they may not work yet.
 
 |Breakout Board|Version|Documentation|Manufacturing Files|
 |--------------|-------|-------------|-------------------|
-|[SD Card Connector (2041021-4) Breakout](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/sd-full-2041021-4-breakout)|v1.0|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/sd-full-2041021-4-breakout/sd-full-2041021-4-breakout-v1.0.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/sd-full-2041021-4-breakout/sd-full-2041021-4-breakout-v1.0.zip)|
-|[Micro SD Card Connector (5009010801) Breakout](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/sd-micro-hinged-5009010801-breakout)|v1.0|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/sd-micro-hinged-5009010801-breakout/sd-micro-hinged-5009010801-breakout-v1.0.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/sd-micro-hinged-5009010801-breakout/sd-micro-hinged-5009010801-breakout-v1.0.zip)|
+|[SD Card Connector (2041021-4)](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/sd-full-2041021-4-breakout)|v1.0|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/sd-full-2041021-4-breakout/sd-full-2041021-4-breakout-v1.0.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/sd-full-2041021-4-breakout/sd-full-2041021-4-breakout-v1.0.zip)|
+|[Micro SD Card Connector (5009010801)](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/sd-micro-hinged-5009010801-breakout)|v1.0|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/sd-micro-hinged-5009010801-breakout/sd-micro-hinged-5009010801-breakout-v1.0.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/sd-micro-hinged-5009010801-breakout/sd-micro-hinged-5009010801-breakout-v1.0.zip)|
 |[Micro SD Card Connector (0475710001)](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/sd-micro-pushpull-0475710001-breakout)|v1.0|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/sd-micro-pushpull-0475710001-breakout/sd-micro-pushpull-0475710001-breakout-v1.0.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/sd-micro-pushpull-0475710001-breakout/sd-micro-pushpull-0475710001-breakout-v1.0.zip)|
 |Atmega2560||||
 |Attiny85||||
