@@ -15,14 +15,14 @@ All the work here is released under the CERN Open Hardware License v1.2.
 
 ### Unverified Projects
 
-The links are included to documentation and manufacturing files but they may not work yet.
+The documentation and manufacturing links may not work yet.
 
 |Breakout Board|Version|Documentation|Manufacturing Files|
 |--------------|-------|-------------|-------------------|
 |[SD Card Connector (2041021-4)](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/sd-full-2041021-4-breakout)|v1.0|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/sd-full-2041021-4-breakout/sd-full-2041021-4-breakout-v1.0.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/sd-full-2041021-4-breakout/sd-full-2041021-4-breakout-v1.0.zip)|
 |[Micro SD Card Connector (5009010801)](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/sd-micro-hinged-5009010801-breakout)|v1.0|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/sd-micro-hinged-5009010801-breakout/sd-micro-hinged-5009010801-breakout-v1.0.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/sd-micro-hinged-5009010801-breakout/sd-micro-hinged-5009010801-breakout-v1.0.zip)|
 |[Micro SD Card Connector (0475710001)](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/sd-micro-pushpull-0475710001-breakout)|v1.0|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/sd-micro-pushpull-0475710001-breakout/sd-micro-pushpull-0475710001-breakout-v1.0.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/sd-micro-pushpull-0475710001-breakout/sd-micro-pushpull-0475710001-breakout-v1.0.zip)|
-|Atmega2560||||
+|[Atmega2560](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/atmega2560)|v1.0|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/atmega2560/atmega2560-v1.0.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/atmega2560/atmega2560-v1.0.zip)|
 |Attiny85||||
 |Attiny861V||||
 |Atmega32u4||||
