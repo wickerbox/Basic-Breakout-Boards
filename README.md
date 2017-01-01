@@ -32,6 +32,5 @@ The documentation and manufacturing links may not work yet.
 |USB-Serial circuit||||
 |JTAG adapter||||
 |LED Array||||
-|MPU6050 Sensor||||
-|SD Card Holder||||
+|[MPU6050 0-axis IMU Breakout](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/mpu6050-breakout)|v1.0|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/mpu6050-breakout/mpu6050-breakout-v1.0.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/mpu6050-breakout/mpu6050-breakout-v1.0.zip)|
 |USB Connector Set||||
