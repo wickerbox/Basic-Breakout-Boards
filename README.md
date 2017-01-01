@@ -10,6 +10,7 @@ All the work here is released under the CERN Open Hardware License v1.2.
 |--------------|-------|-------------|-------------------|
 |[Atmega328](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/atmega328)|v1.2|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/atmega328/atmega328-v1.2.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/atmega328/atmega328-v1.2.zip)|
 |[USB Breakout](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/usb-breakout)|v1.1|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/usb-breakout/usb-breakout-v1.1.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/usb-breakout/usb-breakout-v1.1.zip)|
+|[MMA7660 Accelerometer](https://github.com/wickerbox/Basic-Breakout-Boards/tree/master/mma7660-sensor-breakout)|v1.1|[View](https://github.com/wickerbox/Basic-Breakout-Boards/blob/master/mma7660-sensor-breakout/mma7660-sensor-breakout-v1.1.pdf)|[Zip](https://github.com/wickerbox/Basic-Breakout-Boards/raw/master/mma7660-sensor-breakout/mma7660-sensor-breakout-v1.1.zip)|
 
 ### Unverified
 
