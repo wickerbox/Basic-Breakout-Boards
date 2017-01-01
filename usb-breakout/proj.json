@@ -1,0 +1,19 @@
+{
+    "author":"Jenner Hanni",
+    "bom_dir":"bom",
+    "company":"Wickerbox Electronics",
+    "date_create":"31 Dec 2016",
+    "date_update":"31 Dec 2016",
+    "description":"Breadboard-compatible breakout of a micro USB connector.",
+    "email":"jenner@wickerbox.net",
+    "gerbers_dir":"gerbers",
+    "lib_dir":"/home/wicker/wickerlib/libraries",
+    "license":"CERN Open Hardware License v1.2",
+    "projname":"usb-breakout",
+    "template_dir":"/home/wicker/wickerlib/templates",
+    "template_kicad":"wickerbox-2layer",
+    "template_latex":"breakout.tex",
+    "title":"USB Breakout Board",
+    "version":"v1.1",
+    "website":"http://wickerbox.net"
+}
