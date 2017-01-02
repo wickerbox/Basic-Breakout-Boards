@@ -1,0 +1,6 @@
+Ref,Qty,Value,Footprint,Footprint Library,Symbol,Symbol Library,Datasheet,Description,MF_Name,MF_PN,S1_Name,S1_PN
+C1 C4,2,10nF,RLC-0402-SMD,Wickerlib,CAP-CER-10NF-50V-X7R-0402,wickerlib,http://www.digikey.com/en/ptm/k/kemet/capacitor-basics---typical-uses-for-capacitors?WT.pn_sku=399-3027-1-ND&WT.z_part_id=447601&WT.z_video_source=Part_Detail,CAP CER 10000PF 50V X7R 0402,Yageo,CC0402KRX7R9BB103,Digikey,311-1349-1-ND
+C3 C2 C6 C5,4,100nF,RLC-0402-SMD,Wickerlib,CAP-CER-100NF-16V-X7R-0402,wickerlib,http://www.samsungsem.com/kr/support/product-search/mlcc/CL05B104KO5NNNC.jsp,CAP CER 0.1UF 16V X7R 0402,Samsung,CL05B104KO5NNNC,Digikey,1276-1001-1-ND
+J1 J2 J4 J3,4,HEADER,CONN-HEADER-STRAIGHT-P2.54MM-1x05,Wickerlib,HEADER-MALE-5POS-TH-1x05-P0.1IN,wickerlib,https://cdn.harwin.com/pdfs/60page140.pdf,HEADER MALE 5POS TH 1x05 0.1”,Harwin,M20-9992046,Digikey,952-1902-ND
+JP1 JP2,2,JUMP,CONN-HEADER-STRAIGHT-P2.54MM-1x02,Wickerlib,SHUNT-JUMPER-2PIN-P0.1IN,wickerlib,,SHUNT JUMPER 0.1IN BLACK GOLD,3M,969102-0000-DA,Digikey,3M9580-ND
+U1 U2,2,MPU9250,QFN-24_3x3MM_P0.4MM,Wickerlib,IC-9-AXIS-IMU-MPU9250-QFN24,wickerlib,https://store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf,GYRO/ACCEL/MAG 9-AXIS I2C/SPI QFN24 MPU9150,Invensense,MPU-9250,Digikey,1428-1019-1-ND
