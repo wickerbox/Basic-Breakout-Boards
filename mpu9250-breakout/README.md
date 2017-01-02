@@ -13,6 +13,8 @@ License: CERN Open Hardware License v1.2
 
 There are two boards in the same file, one in SPI mode and one in I2C mode. 
 
+![Schematic](schematic.png)
+
 ### Bill of Materials
 
 <!--- bom start --->
@@ -23,10 +25,14 @@ There are two boards in the same file, one in SPI mode and one in I2C mode.
 |J1 J2 J4 J3|4|HEADER MALE 5POS TH 1x05 0.1”|952-1902-ND|
 |JP1 JP2|2|SHUNT JUMPER 0.1IN BLACK GOLD|3M9580-ND|
 |U1 U2|2|GYRO/ACCEL/MAG 9-AXIS I2C/SPI QFN24 MPU9150|1428-1019-1-ND|
-
-
 <!--- bom end --->
+\pagebreak
+
+### Assembly Diagrams
+
 ![Assembly Diagram](assembly.png)
+
+### Board Preview
 
 ![Gerber Preview](preview.png)
 
