@@ -1,0 +1,7 @@
+Ref,Qty,Value,Footprint,Footprint Library,Symbol,Symbol Library,Datasheet,Description,MF_Name,MF_PN,S1_Name,S1_PN
+C2 C3,2,0.1uF,RLC-0603-SMD,Wickerlib,CAP-CER-0.1UF-100V-X7R-0603,wickerlib,http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf,CAP CER 0.1UF 100V X7R 0603,Murata,GRM188R72A104KA35D,Digikey,490-3285-1-ND
+C4 C1,2,1uF,RLC-0603-SMD,Wickerlib,CAP-CER-1UF-25V-X7R-0603,wickerlib,http://ds.yuden.co.jp/TYCOMPAS/ut/detail.do?productNo=TMK107B7105KA-T&fileName=TMK107B7105KA-T_SS&mode=specSheetDownload,CAP CER 1UF 25V X7R 0603,Taiyo Yuden,TMK107B7105KA-T,Digikey,587-2984-1-ND
+J1,1,BREAKOUT,CONN-HEADER-STRAIGHT-P2.54MM-1x06,Wickerlib,HEADER-MALE-6POS-TH-1x06-P0.1IN,wickerlib,https://cdn.harwin.com/pdfs/60page140.pdf,HEADER MALE 6POS TH 1x06 0.1”,Harwin,M20-9992046,Digikey,952-1902-ND
+J2,1,CONN-MICRO-SD-CARD-PUSH-PULL,CONN-SD-MICRO-MOLEX-0475710001,Wickerlib,CONN-MICRO-SD-CARD-PUSH-PULL,wickerlib,http://www.molex.com/pdm_docs/sd/5009010801_sd.pdf,CONN MICRO SD CARD PUSH-PULL,Molex,0475710001,Digikey,WM9731CT-ND
+U1,1,"MIC5365 150mA",SOT-353,Wickerlib,IC-REG-LDO-3.3V-0.15A-MIC5365-SOT353,wickerlib,http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/buxxsd5wg-e.pdf,IC REG LDO 3.3V 0.15A SOT353,Microchip,MIC5365-3.3YC5-TR,Digikey,576-3193-1-ND
+U2,1,TXB0104,SOIC-14-3.9x8.7MM-P1.27MM,Wickerlib,IC-VOLT-LEVEL-TRANSLATOR-TXB0104-SOIC14,wickerlib,http://www.ti.com/lit/ds/symlink/txb0104.pdf,IC VOLT-LEVEL TRANSLATOR TXB0104 SOIC14,TI,TXB0104DR,Digikey,296-21928-1-ND

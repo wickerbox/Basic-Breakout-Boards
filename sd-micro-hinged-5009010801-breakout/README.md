@@ -11,7 +11,6 @@ Company: Wickerbox Electronics
 License: CERN Open Hardware License v1.2
 
 <!--- end title --->
-Intro text.
 
 ### Bill of Materials
 

@@ -1,5 +1,6 @@
 EESchema Schematic File Version 2
 LIBS:wickerlib
+LIBS:sd-micro-hinged-5009010801-breakout-cache
 EELAYER 25 0
 EELAYER END
 $Descr USLetter 11000 8500
