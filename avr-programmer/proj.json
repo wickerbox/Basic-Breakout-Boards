@@ -1,0 +1,19 @@
+{
+    "author":"Jenner Hanni",
+    "bom_dir":"bom",
+    "company":"Wickerbox Electronics",
+    "date_create":"09 Jan 2017",
+    "date_update":"09 Jan 2017",
+    "description":"Simple Atmega328-based AVR programmer with ISP and FTDI breakout",
+    "email":"jenner@wickerbox.net",
+    "gerbers_dir":"gerbers",
+    "lib_dir":"/home/wicker/wickerlib/libraries",
+    "license":"CERN Open Hardware License v1.2",
+    "projname":"avr-programmer",
+    "template_dir":"/home/wicker/wickerlib/templates",
+    "template_kicad":"wickerbox-2layer",
+    "template_latex":"breakout.tex",
+    "title":"Atmega328-based AVR Programmer",
+    "version":"v1.0",
+    "website":"http://wickerbox.net"
+}
