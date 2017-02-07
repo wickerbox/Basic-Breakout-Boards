@@ -13,7 +13,7 @@ Updated: 7 Feb 2017
 
 It must be used with 5V, and includes a 470-ohm resistor on the input DI line to protect against voltage spikes. The project is released as open hardware under the CERN v1.2 Open Hardware license.
 
-You can order a set of three bare boards for $1.20 <a href="https://oshpark.com/shared_projects/Zs3Bet2O">from OSH Park</a>.
+You can order a set of three bare boards for $1.20 <a href="https://oshpark.com/shared_projects/DExj7dKh">from OSH Park</a>.
 
 ![Schematic](schematic.png)
 
