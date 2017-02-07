@@ -7,11 +7,11 @@ encoding utf-8
 Sheet 1 1
 Title "Neopixel WS2812B Breakout Board"
 Date "1 Sep 2016"
-Rev"v1.0"
-Comp "CERN Open Hardware License v1.2")
-Comment1 "jenner@wickerbox.net")
-Comment2 "http://wickerbox.net")
-Comment3 "Wickerbox Electronics")
+Rev "v1.0"
+Comp "CERN Open Hardware License v1.2"
+Comment1 "jenner@wickerbox.net"
+Comment2 "http://wickerbox.net"
+Comment3 "Wickerbox Electronics"
 Comment4 ""
 $EndDescr
 Wire Wire Line
@@ -56,10 +56,10 @@ F 10 "Not Verified" H 5500 3575 50  0001 C CIN "Verified"
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR1
+L GND #PWR01
 U 1 1 57C8B8D5
 P 5550 4700
-F 0 "#PWR1" H 5550 4450 50  0001 C CNN
+F 0 "#PWR01" H 5550 4450 50  0001 C CNN
 F 1 "GND" H 5550 4550 50  0000 C CNN
 F 2 "" H 5550 4700 50  0000 C CNN
 F 3 "" H 5550 4700 50  0000 C CNN
@@ -128,4 +128,6 @@ Wire Wire Line
 	4825 3875 4825 3925
 Text Notes 4250 4850 0    60   ~ 0
 Add R1 between \nmicrocontroller\ndata pin and \nNeopixel data input to\nprevent voltage spikes. 
+Text Notes 4275 3375 0    60   ~ 0
+Strongly recommended to place \na 100nF capacitor between VCC\nand GND between micro and pixels.
 $EndSCHEMATC

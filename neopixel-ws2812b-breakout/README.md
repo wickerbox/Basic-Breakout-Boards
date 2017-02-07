@@ -1,8 +1,8 @@
 <!--- start title --->
-# Neopixel WS2812B Breakout Board vv1.0
+# Neopixel WS2812B Breakout Board v1.1
 This is a breadboard-compatible breakout board for a WS2812B or 5050-compatible RGB "Neopixel" LED.
 
-Updated: 1 Sep 2016
+Updated: 7 Feb 2017
 
 - Author: Jenner Hanni
 - Website: http://wickerbox.net
@@ -25,6 +25,8 @@ You can order a set of three bare boards for $1.20 <a href="https://oshpark.com/
 |J2 J1|2|HEADER MALE 2POS TH 1x02 0.1”|952-2262-ND|
 |LED1|1|LED RGB WS2812B W/DVR 4SMD|1528-1104-ND|
 |R1|1|RES SMD 470 OHM 5% 1/4W 0603|RHM470DCT-ND|
+
+
 <!--- bom end --->
 
 
