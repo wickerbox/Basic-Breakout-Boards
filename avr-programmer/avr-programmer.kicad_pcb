@@ -3,7 +3,7 @@
   (general
     (links 37)
     (no_connects 0)
-    (area 99.338 69.5452 178.510001 123.265001)
+    (area 99.338 69.5198 178.510001 123.265001)
     (thickness 1.6)
     (drawings 49)
     (tracks 151)
@@ -72,7 +72,7 @@
     (mod_text_width 0.1524)
     (pad_size 1.524 1.524)
     (pad_drill 0.762)
-    (pad_to_mask_clearance 0.0762)
+    (pad_to_mask_clearance 0.0508)
     (solder_mask_min_width 0.1016)
     (pad_to_paste_clearance -0.0762)
     (aux_axis_origin 0 0)
