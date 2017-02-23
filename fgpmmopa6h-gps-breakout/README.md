@@ -21,6 +21,32 @@ This design tries to accommodate both 3V and 5V microcontrollers.
 
 1PPS, RTCM, and the FIX are 3.3V-level signals and may not be interpreted correctly by a 5V system.
 
+### Notes on 3.3V/5V compatibility
+
+Atmega328 provides output signals above 4.2V for HIGH and below 0.9V for LOW. 
+
+Atmega328 detects input signals above 3V as HIGH and below 1.5V for LOW.
+
+The FGPMMOPA6H provides output signals between 2.0 and 3.3V for HIGH and between 0 and 0.8V for LOW. 
+
+The FGPMMOPA6H detects input signals between 2.4 and 3.3V for HIGH and between 0 and 0.4V for LOW.
+
+The following part of the circuit protects the input of the FGPMMOPA6H (Rx pin) from the Tx pin on the Atmega328:
+
+![Protection](rx_protection)
+
+|Old Pin|New Pin Purpose|
+|-------|---------------|
+|RX|3.3V_TX|
+|5V_TX|5V_RX|
+|3.3V_TX|3.3V_RX|
+
+- [ ] Does it work with this configuration in 5V? 
+
+- [ ] What about a 5V reading on the 3.3V input?
+
+- [ ] Does the whole board work with 3.3V microcontroller?
+
 ### Bill of Materials
 
 <!--- bom start --->
