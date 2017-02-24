@@ -20,7 +20,7 @@ L CONN-MICRO-SD-CARD-HINGED-TYPE J2
 U 1 1 586C43A8
 P 5975 3900
 F 0 "J2" H 5575 4400 50  0000 L CNN
-F 1 "CONN-MICRO-SD-CARD-HINGED-TYPE" H 5575 3200 50  0000 L CNN
+F 1 "MICRO SD" H 5575 3200 50  0000 L CNN
 F 2 "Wickerlib:CONN-SD-MICRO-MOLEX-5009010801" H 5975 3550 50  0001 C CIN
 F 3 "http://www.molex.com/pdm_docs/sd/5009010801_sd.pdf" H 5975 3900 5   0001 C CNN
 F 4 "CONN MICRO SD CARD HINGED TYPE" H 5975 3550 50  0001 C CIN "Description"
@@ -360,13 +360,13 @@ F 3 "" H 3950 3350 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 1825 3975 0    50   ~ 0
-MISO
-Text Label 1825 4175 0    50   ~ 0
-MOSI
-Text Label 1825 4075 0    50   ~ 0
-CLK
-Text Label 1825 4275 0    50   ~ 0
 CS
+Text Label 1825 4175 0    50   ~ 0
+CLK
+Text Label 1825 4075 0    50   ~ 0
+MOSI
+Text Label 1825 4275 0    50   ~ 0
+MISO
 Text Label 5025 3850 0    50   ~ 0
 SD_CS
 Text Label 5025 3750 0    50   ~ 0
@@ -376,13 +376,13 @@ SD_MOSI
 Text Label 5025 3550 0    50   ~ 0
 SD_MISO
 Text Label 4375 3975 0    50   ~ 0
-SD_MISO
-Text Label 4375 4175 0    50   ~ 0
-SD_MOSI
-Text Label 4375 4075 0    50   ~ 0
-SD_CLK
-Text Label 4375 4275 0    50   ~ 0
 SD_CS
+Text Label 4375 4175 0    50   ~ 0
+SD_CLK
+Text Label 4375 4075 0    50   ~ 0
+SD_MOSI
+Text Label 4375 4275 0    50   ~ 0
+SD_MISO
 Wire Wire Line
 	4350 4275 4675 4275
 Entry Wire Line

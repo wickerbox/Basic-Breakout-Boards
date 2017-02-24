@@ -2,7 +2,7 @@
 # Micro SD Connector (5009010801) Breakout Board vv1.0
 Breadboard- and 3V/5V-compatible micro SD breakout board.
 
-Updated: 4 Jan 2017
+Updated: 24 Feb 2017
 
 - Author: Jenner Hanni
 - Website: http://wickerbox.net
@@ -11,9 +11,9 @@ Updated: 4 Jan 2017
 
 <!--- end title --->
 
+<!--- bom start --->
 ### Bill of Materials
 
-<!--- bom start --->
 |Ref|Qty|Description|Digikey PN|
 |---|---|-----------|------|
 |C2 C3|2|CAP CER 0.1UF 100V X7R 0603|490-3285-1-ND|

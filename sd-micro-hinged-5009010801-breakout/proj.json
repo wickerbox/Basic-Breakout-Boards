@@ -3,7 +3,7 @@
     "bom_dir":"bom",
     "company":"Wickerbox Electronics",
     "date_create":"01 Jan 2017",
-    "date_update":"01 Jan 2017",
+    "date_update":"24 Feb 2017",
     "description":"Breadboard- and 3V/5V-compatible micro SD breakout board.",
     "email":"jenner@wickerbox.net",
     "gerbers_dir":"gerbers",
@@ -14,6 +14,10 @@
     "template_kicad":"wickerbox-2layer",
     "template_latex":"breakout.tex",
     "title":"Micro SD Connector (5009010801) Breakout Board",
-    "version":"v1.0",
-    "website":"http://wickerbox.net"
+    "version":"1.1",
+    "website":"http://wickerbox.net",
+    "width_assembly_png":"90",
+    "width_other_png":"50",
+    "width_preview_png":"70",
+    "width_schematic_png":"90"
 }
