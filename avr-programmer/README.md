@@ -2,7 +2,7 @@
 # Atmega328-based AVR Programmer v1.1
 Simple Atmega328-based AVR programmer with ISP and FTDI breakout
 
-Updated: 09 Jan 2017
+Updated: 07 March 2017
 
 Author: Jenner Hanni
 Website: http://wickerbox.net
@@ -11,6 +11,8 @@ License: CERN Open Hardware License v1.2
 
 <!--- end title --->
 I made it to have a dedicated board containing Nick Gammon's Arduino sketch for bootloading. 
+
+<img src="assembled.png">
 
 ### Bill of Materials
 
