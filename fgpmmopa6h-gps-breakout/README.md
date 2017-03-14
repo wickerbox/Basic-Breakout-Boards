@@ -11,6 +11,8 @@ Updated: 23 Feb 2017
 
 <!--- end title --->
 
+![Assembled](https://photos.smugmug.com/Projects/Breakout-Boards/n-Sp9mRP/i-xfcZ7K6/0/O/i-xfcZ7K6.png)
+
 - To use with a 5V FTDI cable, orient cable with RESET (green) at pin 1 on J1.
 
 - To use with 5V controllers, connect VCC, 5V_RX, 5V_TX, and GND.

@@ -1,4 +1,4 @@
-update=Tue 10 Jan 2017 12:53:18 PM PST
+update=Sat 11 Mar 2017 11:58:47 AM PST
 version=1
 last_client=kicad
 [cvpcb]
@@ -23,11 +23,6 @@ SolderMaskMinWidth=0.004000000000
 DrawSegmentWidth=0.152400000000
 BoardOutlineThickness=0.152400000000
 ModuleOutlineThickness=0.152400000000
-[eeschema]
-version=1
-LibDir=/home/wicker/wickerlib/libraries/
-[eeschema/libraries]
-LibName1=/home/wicker/wickerlib/libraries/wickerlib
 [general]
 version=1
 [schematic_editor]
@@ -40,3 +35,9 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=50
+[eeschema]
+version=1
+LibDir=/home/wicker/wickerlib/libraries/
+[eeschema/libraries]
+LibName1=fgpmmopa6h-gps-breakout-rescue
+LibName2=/home/wicker/wickerlib/libraries/wickerlib

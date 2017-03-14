@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:fgpmmopa6h-gps-breakout-rescue
 LIBS:wickerlib
 LIBS:fgpmmopa6h-gps-breakout-cache
 EELAYER 25 0
@@ -370,23 +371,7 @@ F 8 "490-1512-1-ND" H 7350 1975 50  0001 C CIN "S1_PN"
 	1    7350 2325
 	1    0    0    -1  
 $EndComp
-$Comp
-L CONN-UFL-HIROSE-R-SMD AN1
-U 1 1 5875EDAC
-P 7400 4700
-F 0 "AN1" H 7400 4825 50  0000 L CNN
-F 1 "UFL" H 7225 4600 50  0000 L CNN
-F 2 "Wickerlib:U.FL-COAX" H 7400 4350 50  0001 C CIN
-F 3 "http://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/UFL%20Series.pdf" H 7400 4700 3   0001 C CNN
-F 4 "Hirose" H 7400 4350 50  0001 C CIN "MF_Name"
-F 5 "U.FL-R-SMT-1(01)" H 7400 4350 50  0001 C CIN "MF_PN"
-F 6 "Digikey" H 7400 4350 50  0001 C CIN "S1_Name"
-F 7 "H122041-ND" H 7400 4350 50  0001 C CIN "S1_PN"
-F 8 "CONN UFL JACK STR 50 OHM SMD" H 7400 4350 50  0001 C CIN "Description"
-	1    7400 4700
-	1    0    0    -1  
-$EndComp
-Text Notes 725  6450 0    100  ~ 0
+Text Notes 750  5975 0    100  ~ 0
 Based on Adafruit Ultimate GPS Breakout [1]\nand FGPMMOPA6H datasheet [2] reference circuits.\n\n[1] https://www.adafruit.com/products/790\n[2] https://cdn-shop.adafruit.com/datasheets/GlobalTop-FGPMMOPA6H-Datasheet-V0A.pdf
 Text Notes 1850 3575 2    50   ~ 0
 To use with 5V FTDI:\nconnect FTDI cable\nstarting with RESET\n(green) at pin 1.\n\n\nTo use with 3.3V\ncontroller, connect\n to VCC, GPS_RX, \n3.3V_TX, and GND.
@@ -438,23 +423,39 @@ Connection ~ 8350 4275
 Wire Wire Line
 	8250 3975 8350 3975
 Wire Wire Line
-	8350 3975 8350 4325
+	8350 3975 8350 4075
+Wire Wire Line
+	8350 4075 8350 4175
+Wire Wire Line
+	8350 4175 8350 4275
+Wire Wire Line
+	8350 4275 8350 4325
 Wire Wire Line
 	8250 4275 8350 4275
 Wire Wire Line
 	5950 3275 7175 3275
 Wire Wire Line
-	7100 1400 7100 3175
+	7100 1400 7100 1575
+Wire Wire Line
+	7100 1575 7100 2075
+Wire Wire Line
+	7100 2075 7100 3175
 Wire Wire Line
 	7100 3175 7175 3175
 Wire Wire Line
-	5775 1575 7100 1575
+	5775 1575 6075 1575
+Wire Wire Line
+	6075 1575 7100 1575
 Wire Wire Line
 	6075 1575 6075 1650
 Connection ~ 7100 1575
 Connection ~ 6075 1575
 Wire Wire Line
-	2550 1575 4975 1575
+	2550 1575 4525 1575
+Wire Wire Line
+	4525 1575 4900 1575
+Wire Wire Line
+	4900 1575 4975 1575
 Wire Wire Line
 	4975 1675 4900 1675
 Wire Wire Line
@@ -463,15 +464,19 @@ Connection ~ 4900 1575
 Wire Wire Line
 	7175 3425 5725 3425
 Wire Wire Line
-	5725 2900 5725 3425
+	5725 3425 5725 2900
 Wire Wire Line
-	4850 2900 5725 2900
+	5725 2900 5275 2900
+Wire Wire Line
+	5275 2900 4850 2900
 Wire Wire Line
 	5275 2900 5275 2950
 Wire Wire Line
 	4600 3525 7175 3525
 Wire Wire Line
-	3900 3775 7175 3775
+	3900 3775 5000 3775
+Wire Wire Line
+	5000 3775 7175 3775
 Wire Wire Line
 	4850 2900 4850 3000
 Connection ~ 5275 2900
@@ -532,7 +537,9 @@ Wire Wire Line
 Wire Wire Line
 	6575 2675 6500 2675
 Wire Wire Line
-	2550 1425 2550 3025
+	2550 1525 2550 1575
+Wire Wire Line
+	2550 1575 2550 3025
 Wire Wire Line
 	2550 3025 2375 3025
 Wire Wire Line
@@ -556,7 +563,9 @@ Wire Notes Line
 Wire Notes Line
 	2000 2500 2000 3275
 Wire Wire Line
-	2375 3625 7175 3625
+	2375 3625 4425 3625
+Wire Wire Line
+	4425 3625 7175 3625
 Wire Wire Line
 	2375 2925 3375 2925
 Wire Wire Line
@@ -564,7 +573,9 @@ Wire Wire Line
 Wire Wire Line
 	3375 3050 3975 3050
 Wire Wire Line
-	4425 2675 4425 3625
+	4425 2675 4425 3050
+Wire Wire Line
+	4425 3050 4425 3625
 Connection ~ 4425 3625
 Wire Wire Line
 	4600 2825 4600 3525
@@ -590,12 +601,30 @@ $EndComp
 $Comp
 L VCC #PWR014
 U 1 1 58B0216F
-P 2550 1425
-F 0 "#PWR014" H 2550 1275 50  0001 C CNN
-F 1 "VCC" H 2550 1565 50  0000 C CNN
-F 2 "" H 2550 1425 50  0000 C CNN
-F 3 "" H 2550 1425 50  0000 C CNN
-	1    2550 1425
+P 2550 1525
+F 0 "#PWR014" H 2550 1375 50  0001 C CNN
+F 1 "VCC" H 2550 1665 50  0000 C CNN
+F 2 "" H 2550 1525 50  0000 C CNN
+F 3 "" H 2550 1525 50  0000 C CNN
+	1    2550 1525
 	1    0    0    -1  
 $EndComp
+$Comp
+L CONN-UFL-HIROSE-R-SMD AN1
+U 1 1 58C458F2
+P 7400 4700
+F 0 "AN1" H 7400 4825 50  0000 L CNN
+F 1 "UFL GPS ANTENNA" H 7500 4575 50  0000 L CNN
+F 2 "Wickerlib:U.FL-COAX" H 7400 4350 50  0001 C CIN
+F 3 "http://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/UFL%20Series.pdf" H 7400 4700 3   0001 C CNN
+F 4 "Hirose" H 7400 4350 50  0001 C CIN "MF_Name"
+F 5 "U.FL-R-SMT-1(01)" H 7400 4350 50  0001 C CIN "MF_PN"
+F 6 "Digikey" H 7400 4350 50  0001 C CIN "S1_Name"
+F 7 "H122041-ND" H 7400 4350 50  0001 C CIN "S1_PN"
+F 8 "CONN UFL JACK STR 50 OHM SMD" H 7400 4350 50  0001 C CIN "Description"
+	1    7400 4700
+	1    0    0    -1  
+$EndComp
+Text Notes 775  1275 0    118  ~ 0
+FGPMMOPA6H GPS Breakout Board v1.1
 $EndSCHEMATC

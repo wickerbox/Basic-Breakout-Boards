@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# CONN-UFL-HIROSE-R-SMD-RESCUE-fgpmmopa6h-gps-breakout
+#
+DEF CONN-UFL-HIROSE-R-SMD-RESCUE-fgpmmopa6h-gps-breakout AN 0 40 Y N 1 F N
+F0 "AN" 0 125 50 H V L CNN
+F1 "CONN-UFL-HIROSE-R-SMD-RESCUE-fgpmmopa6h-gps-breakout" 100 -125 50 H V L CNN
+F2 "Wickerlib:U.FL-COAX" 0 -350 50 H I C CIN
+F3 "http://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/UFL%20Series.pdf" 0 0 3 H I C CNN
+F4 "Hirose" 0 -350 50 H I C CIN "MF_Name"
+F5 "U.FL-R-SMT-1(01)" 0 -350 50 H I C CIN "MF_PN"
+F6 "Digikey" 0 -350 50 H I C CIN "S1_Name"
+F7 "H122041-ND" 0 -350 50 H I C CIN "S1_PN"
+F8 "CONN UFL JACK STR 50 OHM SMD" 0 -350 50 H I C CIN "Description"
+DRAW
+C 75 0 25 0 1 6 N
+C 75 0 71 0 1 6 N
+P 2 0 1 6 0 0 50 0 N
+X GND GND 75 -275 200 U 50 50 1 1 I
+X SIG SIG -200 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

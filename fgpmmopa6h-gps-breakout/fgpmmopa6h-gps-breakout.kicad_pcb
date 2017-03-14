@@ -5,7 +5,7 @@
     (no_connects 0)
     (area 126.8826 78.663799 171.551601 106.768901)
     (thickness 1.6)
-    (drawings 29)
+    (drawings 30)
     (tracks 183)
     (zones 0)
     (modules 15)
@@ -724,6 +724,9 @@
     (pad 20 smd rect (at 8.001 -6.74878) (size 1.99898 1.00076) (layers F.Cu F.Paste F.Mask))
   )
 
+  (gr_text "FGPMMOPA6H GPS Breakout Board v1.1" (at 154.101801 80.71104) (layer B.SilkS) (tstamp 58C456C8)
+    (effects (font (size 1.016 1.016) (thickness 0.1524)) (justify mirror))
+  )
   (gr_text RESET (at 150.1013 81.0514) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.1524)))
   )
