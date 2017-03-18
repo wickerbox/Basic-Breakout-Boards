@@ -1,5 +1,5 @@
 <!--- start title --->
-# Micro SD Connector (5009010801) Breakout Board vv1.0
+# Micro SD Connector (5009010801) Breakout Board v1.0
 Breadboard- and 3V/5V-compatible micro SD breakout board.
 
 Updated: 24 Feb 2017
