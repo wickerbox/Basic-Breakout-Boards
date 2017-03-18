@@ -11,6 +11,8 @@ Updated: 24 Feb 2017
 
 <!--- end title --->
 
+![Schematic](schematic.png)
+
 <!--- bom start --->
 ### Bill of Materials
 
