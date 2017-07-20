@@ -1,0 +1,19 @@
+{
+    "author":"Jenner Hanni",
+    "bom_dir":"bom",
+    "company":"Wickerbox Electronics",
+    "date_create":"20 Jul 2017",
+    "date_update":"20 Jul 2017",
+    "description":"Breakout board for a load-sharing battery/power control chip.",
+    "email":"jenner@wickerbox.net",
+    "gerbers_dir":"gerbers",
+    "lib_dir":"/home/wicker/wickerlib/libraries",
+    "license":"CERN Open Hardware License v1.2",
+    "projname":"mcp73871-battery-mgmt-breakout",
+    "template_dir":"/home/wicker/wickerlib/templates",
+    "template_kicad":"wickerbox-2layer",
+    "template_latex":"breakout.tex",
+    "title":"MCP73871 Battery Management Breakout Board",
+    "version":"1.0",
+    "website":"http://wickerbox.net"
+}
