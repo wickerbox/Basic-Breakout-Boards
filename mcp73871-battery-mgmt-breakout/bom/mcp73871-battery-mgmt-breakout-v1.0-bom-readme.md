@@ -1,17 +1,3 @@
-<!--- start title --->
-# MCP73871 Battery Management Breakout Board v1.0
-Breakout board for a load-sharing battery/power control chip.
-
-Updated: 20 Jul 2017
-- Author: Jenner Hanni
-- Website: http://wickerbox.net
-- Company: Wickerbox Electronics
-- License: CERN Open Hardware License v1.2
-<!--- end title --->
-
-<!--- bom start --->
-### Bill of Materials
-
 |Ref|Qty|Description|Digikey PN|
 |---|---|-----------|------|
 |C1 C2 C3|3|CAP CER 4.7UF 50V X7R 1206|587-2994-1-ND|
@@ -31,13 +17,4 @@ Updated: 20 Jul 2017
 |---|---|-----------|------|
 |B1|1|Lithium Ion Polymer Battery - 3.7v 500mAh|1578|
 
-
-<!--- bom end --->
-<!--- assy start --->
-### Assembly Info for Quoting
-
-<!--- assy end --->
-![Assembly Diagram](assembly.png)
-
-![Gerber Preview](preview.png)
 

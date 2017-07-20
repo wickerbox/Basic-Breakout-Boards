@@ -36,7 +36,7 @@ U 1 1 597175FC
 P 1150 2950
 F 0 "J1" H 1000 3300 50  0000 L CNN
 F 1 "MICRO USB" H 1000 2600 50  0000 L CNN
-F 2 "USB-10118193" H 1150 2600 50  0001 C CIN
+F 2 "Wickerlib:CONN-USB-MICRO-B-AMPHENOL-10118193-0001LF" H 1150 2600 50  0001 C CIN
 F 3 "http://portal.fciconnect.com/Comergent//fci/drawing/10118193.pdf" V 625 2975 5   0001 C CNN
 F 4 "USB MICRO-B RECEPTACLE 5PIN SMT R/A STUDS" H 1150 2600 50  0001 C CIN "Description"
 F 5 "Amphenol" H 1150 2600 50  0001 C CIN "MF_Name"
@@ -406,7 +406,7 @@ U 1 1 5971C346
 P 2375 3250
 F 0 "R2" H 2425 3300 50  0000 L CNN
 F 1 "470" H 2425 3200 50  0000 L CNN
-F 2 "RLC-0603-SMD" H 2375 2900 50  0001 C CIN
+F 2 "Wickerlib:RLC-0603-SMD" H 2375 2900 50  0001 C CIN
 F 3 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 2375 3250 5   0001 C CNN
 F 4 "RES SMD 470 OHM 5% 1/4W 0603" H 2375 2900 50  0001 C CIN "Description"
 F 5 "Rohm Semi" H 2375 2900 50  0001 C CIN "MF_Name"
@@ -458,7 +458,7 @@ U 1 1 5971C765
 P 2825 3250
 F 0 "R3" H 2875 3300 50  0000 L CNN
 F 1 "470" H 2875 3200 50  0000 L CNN
-F 2 "RLC-0603-SMD" H 2825 2900 50  0001 C CIN
+F 2 "Wickerlib:RLC-0603-SMD" H 2825 2900 50  0001 C CIN
 F 3 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 2825 3250 5   0001 C CNN
 F 4 "RES SMD 470 OHM 5% 1/4W 0603" H 2825 2900 50  0001 C CIN "Description"
 F 5 "Rohm Semi" H 2825 2900 50  0001 C CIN "MF_Name"
@@ -474,7 +474,7 @@ U 1 1 5971C7C9
 P 3275 3250
 F 0 "R4" H 3325 3300 50  0000 L CNN
 F 1 "470" H 3325 3200 50  0000 L CNN
-F 2 "RLC-0603-SMD" H 3275 2900 50  0001 C CIN
+F 2 "Wickerlib:RLC-0603-SMD" H 3275 2900 50  0001 C CIN
 F 3 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 3275 3250 5   0001 C CNN
 F 4 "RES SMD 470 OHM 5% 1/4W 0603" H 3275 2900 50  0001 C CIN "Description"
 F 5 "Rohm Semi" H 3275 2900 50  0001 C CIN "MF_Name"
@@ -566,7 +566,7 @@ U 1 1 5971FB5E
 P 6175 3825
 F 0 "R6" H 6225 3875 50  0000 L CNN
 F 1 "2K" H 6225 3775 50  0000 L CNN
-F 2 "RLC-0603-SMD" H 6175 3475 50  0001 C CIN
+F 2 "Wickerlib:RLC-0603-SMD" H 6175 3475 50  0001 C CIN
 F 3 "http://www.seielect.com/catalog/SEI-RNCP.pdf" H 6175 3825 5   0001 C CNN
 F 4 "RES SMD 2K OHM 1% 1/8W 0603" H 6175 3475 50  0001 C CIN "Description"
 F 5 "Stackpole" H 6175 3475 50  0001 C CIN "MF_Name"
@@ -582,7 +582,7 @@ U 1 1 5971FC0F
 P 6500 3825
 F 0 "R7" H 6550 3875 50  0000 L CNN
 F 1 "100K" H 6550 3775 50  0000 L CNN
-F 2 "RLC-0603-SMD" H 6500 3475 50  0001 C CIN
+F 2 "Wickerlib:RLC-0603-SMD" H 6500 3475 50  0001 C CIN
 F 3 "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf" H 6500 3825 5   0001 C CNN
 F 4 "RES SMD 100K OHM 1% 1/10W 0603" H 6500 3475 50  0001 C CIN "Description"
 F 5 "Stackpole" H 6500 3475 50  0001 C CIN "MF_Name"
@@ -671,12 +671,12 @@ $EndComp
 $Comp
 L GND #PWR014
 U 1 1 59721BB6
-P 7775 5575
-F 0 "#PWR014" H 7775 5325 50  0001 C CNN
-F 1 "GND" H 7775 5425 50  0000 C CNN
-F 2 "" H 7775 5575 50  0000 C CNN
-F 3 "" H 7775 5575 50  0000 C CNN
-	1    7775 5575
+P 7775 5475
+F 0 "#PWR014" H 7775 5225 50  0001 C CNN
+F 1 "GND" H 7775 5325 50  0000 C CNN
+F 2 "" H 7775 5475 50  0000 C CNN
+F 3 "" H 7775 5475 50  0000 C CNN
+	1    7775 5475
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -696,7 +696,7 @@ U 1 1 59722738
 P 2100 2750
 F 0 "R1" V 2025 2750 50  0000 C CNN
 F 1 "0 ohm" V 2175 2750 50  0000 C CNN
-F 2 "RLC-0603-SMD" H 2100 2400 50  0001 C CIN
+F 2 "Wickerlib:RLC-0603-SMD" H 2100 2400 50  0001 C CIN
 F 3 "http://www.vishay.com/docs/28705/mcx0x0xpro.pdf" H 2100 2750 5   0001 C CNN
 F 4 "RES SMD 0.0 OHM JUMPER 1/8W 0603" H 2100 2400 50  0001 C CIN "Description"
 F 5 "Vishay" H 2100 2400 50  0001 C CIN "MF_Name"
@@ -718,8 +718,6 @@ Wire Wire Line
 	6975 5175 7825 5175
 Wire Wire Line
 	7825 5275 6975 5275
-Wire Wire Line
-	6975 5375 7825 5375
 Entry Wire Line
 	6875 4675 6975 4775
 Entry Wire Line
@@ -732,9 +730,40 @@ Entry Wire Line
 	6875 5075 6975 5175
 Entry Wire Line
 	6875 5175 6975 5275
-Entry Wire Line
-	6875 5275 6975 5375
 NoConn ~ 1500 2850
 NoConn ~ 1500 2950
 NoConn ~ 1500 3050
+Text Label 7150 4875 0    50   ~ 0
+CE
+Text Label 7150 4050 0    50   ~ 0
+SEL
+Text Label 7150 4150 0    50   ~ 0
+PROG2
+Text Label 7150 5175 0    50   ~ 0
+~TE
+Text Label 7150 4975 0    50   ~ 0
+PROG1
+Text Label 7150 5075 0    50   ~ 0
+PROG3
+Text Label 7150 4250 0    50   ~ 0
+THERM
+Wire Wire Line
+	7775 5475 7775 5375
+Wire Wire Line
+	7225 3550 7225 3850
+Connection ~ 7225 3850
+Wire Wire Line
+	7475 3550 7475 4775
+Wire Wire Line
+	7775 5375 7825 5375
+Connection ~ 7475 4775
+Wire Wire Line
+	7725 3950 7725 3550
+Connection ~ 7725 3950
+Text Label 7150 4450 0    50   ~ 0
+~PG
+Text Label 7150 5275 0    50   ~ 0
+STAT1
+Text Label 7150 4350 0    50   ~ 0
+STAT2
 $EndSCHEMATC
