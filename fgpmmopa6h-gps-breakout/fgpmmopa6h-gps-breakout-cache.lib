@@ -142,7 +142,7 @@ F0 "J" -150 550 50 H V L CNN
 F1 "HEADER-MALE-10POS-TH-1x10-P0.1IN" -150 -550 50 H V L CNN
 F2 "Wickerlib:UNDEFINED" 0 -350 50 H I C CIN
 F3 "https://cdn.harwin.com/pdfs/60page140.pdf" 0 0 5 H I C CNN
-F4 "HEADER MALE 10POS TH 1x10 0.1”" 0 -350 50 H I C CIN "Description"
+F4 "HEADER MALE 10POS TH 1x10 0.1IN" 0 -350 50 H I C CIN "Description"
 F5 "Harwin" 0 -350 50 H I C CIN "MF_Name"
 F6 "M20-9992046" 0 -350 50 H I C CIN "MF_PN"
 F7 "Digikey" 0 -350 50 H I C CIN "S1_Name"
