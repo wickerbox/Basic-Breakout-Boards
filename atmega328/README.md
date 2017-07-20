@@ -26,6 +26,8 @@ You can order a set of three bare boards for $13.35 from OSH Park [here](https:/
 ### Bill of Materials
 
 <!--- bom start --->
+### Bill of Materials
+
 |Ref|Qty|Description|Digikey PN|
 |---|---|-----------|------|
 |C2 C6|2|CAP CER 10UF 25V X7R 1210|587-2599-1-ND|
