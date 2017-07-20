@@ -1,20 +1,3 @@
-<!--- start title --->
-# STNS01 Battery Management Breakout Board v1.0
-Breakout board for a load-sharing battery/power control chip.
-
-Updated: 20 Jul 2017
-
-- Author: Jenner Hanni
-- Website: http://wickerbox.net
-- Company: Wickerbox Electronics
-- License: CERN Open Hardware License v1.2
-<!--- end title --->
-
-Description.
-
-<!--- bom start --->
-### Bill of Materials
-
 |Ref|Qty|Description|Digikey PN|
 |---|---|-----------|------|
 |C1 C3 C4|3|CAP CER 2.2UF 10V X7R 0603|490-4520-1-ND|
@@ -36,13 +19,4 @@ Description.
 |---|---|-----------|------|
 |B1|1|Lithium Ion Polymer Battery - 3.7v 500mAh|1578|
 
-
-<!--- bom end --->
-<!--- assy start --->
-### Assembly Info for Quoting
-
-<!--- assy end --->
-![Assembly Diagram](assembly.png)
-
-![Gerber Preview](preview.png)
 
