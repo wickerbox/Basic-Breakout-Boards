@@ -1,0 +1,19 @@
+{
+    "author":"Jenner Hanni",
+    "bom_dir":"bom",
+    "company":"Wickerbox Electronics",
+    "date_create":"27 Jul 2017",
+    "date_update":"5 Aug 2017",
+    "description":"Arduino-compatible, breadboard-compatible with onboard uSD and RTC.",
+    "email":"jenner@wickerbox.net",
+    "gerbers_dir":"gerbers",
+    "lib_dir":"/home/wicker/wickerlib/libraries",
+    "license":"CERN Open Hardware License v1.2",
+    "projname":"atsamd21g18-breakout",
+    "template_dir":"/home/wicker/wickerlib/templates",
+    "template_kicad":"wickerbox-2layer",
+    "template_latex":"breakout.tex",
+    "title":"ATSAMD21G18 Cortex M0 Breakout Board",
+    "version":"1.0",
+    "website":"http://wickerbox.net"
+}
