@@ -1,0 +1,5 @@
+Ref,Qty,Footprint,Footprint Library,Symbol,Symbol Library,Datasheet,MF_Name,MF_PN,S1_Name,S1_PN,Type
+J1,1,CONN-ONSHORE-JTAG-2x10-2.54MMP,Wickerlib,HEADER-MALE-20POS-TH-2x10-P0.1IN-KEY-SHROUD,wickerlib,http://www.on-shore.com/wp-content/uploads/2015/09/302-sxxx.pdf,OnShore,302-S201,Digikey,ED10524-ND,
+J2,1,CONN-3M-JTAG-2x05-2.54MMP,Wickerlib,HEADER-MALE-10POS-TH-2x5-P0.1IN-KEY-SHROUDED-JTAG,wickerlib,http://multimedia.3m.com/mws/mediawebserver?6666660Zjcf6lVs6EVs666UdhCOrrrrQ-,3M,30310-6002HB,Digikey,30310-6002HB-ND,
+J3,1,CONN-HEADER-STRAIGHT-P2.54MM-1x05,Wickerlib,HEADER-MALE-5POS-TH-1x05-P0.1IN,wickerlib,https://cdn.harwin.com/pdfs/60page140.pdf,Harwin,M20-9992046,Digikey,952-1902-ND,
+J4,1,CONN-ONSHORE-JTAG-2x05-1.27MMP,Wickerlib,HEADER-MALE-10POS-TH-2x5-P1.27MM-KEY-SHROUDED-JTAG,wickerlib,http://cnctech.us/pdfs/3220-XX-0100-00.pdf,CNC Tech,3220-10-0100-00,Digikey,1175-1627-ND,
