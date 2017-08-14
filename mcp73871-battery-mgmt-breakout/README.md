@@ -2,7 +2,7 @@
 # MCP73871 Battery Management Breakout Board v1.0
 Breakout board for a load-sharing battery/power control chip.
 
-Updated: 20 Jul 2017
+- Updated: 14 Aug 2017
 - Author: Jenner Hanni
 - Website: http://wickerbox.net
 - Company: Wickerbox Electronics
