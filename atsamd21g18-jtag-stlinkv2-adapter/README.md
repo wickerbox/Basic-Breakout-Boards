@@ -2,7 +2,7 @@
 # ATSAMD21G18-STLinkv2 JTAG Adapter Board v1.0
 Converts 20-pin giant JTAG connector into 1.27mm-pitch 2x5 connector.
 
-Updated: 5 Aug 2017
+- Updated: 14 Aug 2017
 
 - Author: Jenner Hanni
 - Website: http://wickerbox.net

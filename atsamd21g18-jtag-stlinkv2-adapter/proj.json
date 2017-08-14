@@ -3,7 +3,7 @@
     "bom_dir":"bom",
     "company":"Wickerbox Electronics",
     "date_create":"27 Jul 2017",
-    "date_update":"5 Aug 2017",
+    "date_update":"14 Aug 2017",
     "description":"Converts 20-pin giant JTAG connector into 1.27mm-pitch 2x5 connector.",
     "email":"jenner@wickerbox.net",
     "gerbers_dir":"gerbers",
