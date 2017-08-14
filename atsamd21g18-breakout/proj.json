@@ -3,7 +3,7 @@
     "bom_dir":"bom",
     "company":"Wickerbox Electronics",
     "date_create":"27 Jul 2017",
-    "date_update":"5 Aug 2017",
+    "date_update":"14 Aug 2017",
     "description":"Arduino-compatible, breadboard-compatible with onboard uSD and RTC.",
     "email":"jenner@wickerbox.net",
     "gerbers_dir":"gerbers",

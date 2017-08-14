@@ -2,7 +2,7 @@
 # ATSAMD21G18 Cortex M0 Breakout Board v1.0
 Arduino-compatible, breadboard-compatible with onboard uSD and RTC.
 
-Updated: 5 Aug 2017
+- Updated: 14 Aug 2017
 
 - Author: Jenner Hanni
 - Website: http://wickerbox.net
